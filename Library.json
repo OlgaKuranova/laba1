@@ -1,0 +1,41 @@
+{
+    "Library": {
+        "Books": [
+            {
+                "title": "1984",
+                "author": "Джордж Оруэлл",
+                "rating": null,
+                "reviews": {}
+            },
+            {
+                "title": "Белый Клык",
+                "author": "Джек Лондон",
+                "rating": null,
+                "reviews": {}
+            },
+            {
+                "title": "Алые паруса",
+                "author": "Александр Грин",
+                "rating": null,
+                "reviews": {}
+            }
+        ],
+        "Readers": [
+            {
+                "name": "Olga",
+                "last_name": "Kuranova",
+                "user_ID": 614
+            },
+            {
+                "name": "Daria",
+                "last_name": "Savostyanova",
+                "user_ID": 2033
+            },
+            {
+                "name": "Anna",
+                "last_name": "Maksimova",
+                "user_ID": 1663
+            }
+        ]
+    }
+}

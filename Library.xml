@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Library>
+	<Books>
+		<book_class_object>
+			<title>1984</title>
+			<author>Джордж Оруэлл</author>
+		</book_class_object>
+		<book_class_object>
+			<title>Белый Клык</title>
+			<author>Джек Лондон</author>
+		</book_class_object>
+		<book_class_object>
+			<title>Алые паруса</title>
+			<author>Александр Грин</author>
+		</book_class_object>
+	</Books>
+	<Readers>
+		<person_class_object>
+			<name>Olga</name>
+			<last_name>Kuranova</last_name>
+			<user_ID>614</user_ID>
+		</person_class_object>
+		<person_class_object>
+			<name>Daria</name>
+			<last_name>Savostyanova</last_name>
+			<user_ID>2033</user_ID>
+		</person_class_object>
+		<person_class_object>
+			<name>Anna</name>
+			<last_name>Maksimova</last_name>
+			<user_ID>1663</user_ID>
+		</person_class_object>
+	</Readers>
+</Library>
